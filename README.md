@@ -1,2 +1,2 @@
 # Grow
-project for learn in epam
+Project to learn python in EPAM
